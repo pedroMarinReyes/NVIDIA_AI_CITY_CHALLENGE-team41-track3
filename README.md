@@ -16,8 +16,8 @@ This repository contains our implementation to vehicle re-identification. We use
 
 ## Resources
 
-1. Pretrained SSD model. [a link](www.mozart.dis.ulpgc.es/~pedro/resources/NVIDIACHACHENGE18-models/VGG_coco_SSD_300x300_iter_400000.h5)
-2. Trained triplet network model, dimension of 100 to feature embedding. [a_link](www.mozart.dis.ulpgc.es/~pedro/public_html/resources/NVIDIACHACHENGE18-models/modelBatch64embe100.hdf5)
+1. Pretrained SSD model. [detector_model][www.mozart.dis.ulpgc.es/~pedro/resources/NVIDIACHACHENGE18-models/VGG_coco_SSD_300x300_iter_400000.h5]
+2. Trained triplet network model, dimension of 100 to feature embedding. [triplet_model][www.mozart.dis.ulpgc.es/~pedro/public_html/resources/NVIDIACHACHENGE18-models/modelBatch64embe100.hdf5]
 
 ## Reference
 
