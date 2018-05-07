@@ -14,6 +14,11 @@ This repository contains our implementation to vehicle re-identification. We use
 4.	The re-id strategy is comprised in ```sorted_quadrupla_list_generation.py``` script.
 5.	To output the results in the format of the challenge, you can use ```k_top_output-template.py```.
 
+## Resources
+
+1. Pretrained SSD model. [a link](www.mozart.dis.ulpgc.es/~pedro/resources/NVIDIACHACHENGE18-models/VGG_coco_SSD_300x300_iter_400000.h5)
+2. Trained triplet network model, dimension of 100 to feature embedding. [a_link](www.mozart.dis.ulpgc.es/~pedro/public_html/resources/NVIDIACHACHENGE18-models/modelBatch64embe100.hdf5)
+
 ## Reference
 
 Pedro A. Marín-Reyes, Andrea Palazzi, Luca Bergamini, Simone Calderara, Javier Lorenzo-Navarro, Rita Cucchiara. “Unsupervised Vehicle Re-Identification using Triplet Networks”, in Proc. IEEE/CVF International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). Salt Lake City, EEUU, June 2018. (Accepted)
